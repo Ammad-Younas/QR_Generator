@@ -1,2 +1,2 @@
-# QR_Generator
-A GUI prograame written in Python  using Tkinter Module for creating QR_Code
+## QR_Generator
+QR Generator and Decoder written in Python (Tkinter)
