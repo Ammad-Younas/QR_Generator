@@ -12,7 +12,7 @@ It has some <strong> key features </strong> mentioned below:-
 
 ## # Usage
 
-- Goto [releases](https://github.com/Ammad-Younas/QR_Generator/releases/tag/QR_Generator_and_Decoder) tab.
+- Goto [releases](https://github.com/Ammad-Younas/QR_Generator/releases/tag/QR_Generator_and_Decoder) tab or click [here](https://github.com/Ammad-Younas/QR_Generator/releases/download/QR_Generator_and_Decoder/QR_Generator_and_Decoder.exe) to automatically download.
 - Download the `EXE` there.
 - After downloading complete, simply double-click on it
 
